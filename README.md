@@ -1,0 +1,2 @@
+# dong-chengegzs-journal
+个人笔记与练习
